@@ -7,3 +7,5 @@
  ````npm install react````
 
 sistema de registro 2
+
+- ya casi aprendo ahi vamos poco a poco
